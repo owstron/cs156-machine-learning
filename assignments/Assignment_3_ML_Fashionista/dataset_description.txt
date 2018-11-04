@@ -1,0 +1,7 @@
+Data Images are downloaded from the following links:
+
+https://course-resources.minerva.kgi.edu/uploaded_files/mke/nA93zn/male-clothing.zip
+
+https://course-resources.minerva.kgi.edu/uploaded_files/mke/VL14ar/female-clothing.zip
+
+The folder for `male-clothing` and `female-clothing` are renamed to 'men' and 'women' for easier naming conventions.
